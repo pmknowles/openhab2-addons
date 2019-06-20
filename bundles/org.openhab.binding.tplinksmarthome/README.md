@@ -248,7 +248,7 @@ All devices support some of the following channels:
 | colorTemperature | Dimmer    | Set the color temperature of Smart Home light.     | KB130, KL120, KL130, LB120, LB130, LB230                        |
 | color            | Color     | Set the color of the Smart Home light.             | KB130, KL130, LB130, LB230                                      |
 | power            | Number    | Actual energy usage in Watt.                       | HS110, KLxxx, LBxxx                                             |
-| eneryUsage       | Number    | Energy Usage in kWh.                               | HS110                                                           |
+| energyUsage      | Number    | Energy Usage in kWh.                               | HS110                                                           |
 | current          | Number    | Actual current usage in Ampere.                    | HS110                                                           |
 | voltage          | Number    | Actual voltage usage in Volt.                      | HS110                                                           |
 | led              | Switch    | Switch the status led on the device on or off.     | HS100, HS103, HS105, HS110, HS200, HS210, HS220, KP100          |
